@@ -1,0 +1,2 @@
+class CampingSitesController < ApplicationController
+end
