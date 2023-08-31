@@ -1,6 +1,7 @@
 # README
 
 This API was created as part of my learning journey in web development. It is primarily intended for studying and practice purposes of developing a basic API using Ruby on Rails.
+
 **Documentation:** The documentation provided here is my first attempt at explaining how the API works. If you find any areas that can be improved or clarified, I welcome your feedback and suggestions.
 
 Camping Sites API Documentation
@@ -28,7 +29,7 @@ While I have allowed any origin for demonstration purposes, in a production envi
 
 **Endpoints**
 - Get Camping Sites = Retrieve a list of all camping sites.
-- 
+-
 URL: /camping_sites
 Method: GET
 
@@ -46,4 +47,3 @@ All responses from this API are in JSON format.
 
 **Contact Information**
 alexandrebrcn@gmail.com
-
